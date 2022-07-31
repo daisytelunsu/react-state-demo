@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Minions: The Rise of Gru",
+        "img": "/assets/images/movie-poster.png",
+        "rating": [5, 4, 5, 3]
+    },
+    {
+        "id": 2,
+        "name": "Thor: Love and Thunder",
+        "img": "/assets/images/movie-poster.png",
+        "rating": [3, 4, 4]
+    }
+]
